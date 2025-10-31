@@ -1,0 +1,86 @@
+# ------------------------
+
+# Python
+
+# ------------------------
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# ------------------------
+
+# Virtual environments
+
+# ------------------------
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------
+
+# IDE / Editor files
+
+# ------------------------
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ------------------------
+
+# Logs and caches
+
+# ------------------------
+
+*.log
+*.cache
+# *.pkl
+*.joblib
+*.dat
+*.db
+*.sqlite3
+**pycache**/
+
+# ------------------------
+
+# Jupyter / Colab
+
+# ------------------------
+
+.ipynb_checkpoints/
+*.ipynb_save
+*.ipynb_export
+
+# ------------------------
+
+# System files
+
+# ------------------------
+
+.DS_Store
+Thumbs.db
+
+# ------------------------
+
+# Deployment
+
+# ------------------------
+
+*.tar.gz
+*.zip
+*.bak
+*.swp
